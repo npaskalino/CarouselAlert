@@ -13,7 +13,7 @@ CHECK_EVERY      = 120  # check every 2 minutes (in seconds)
 # ==============================
 
 SELLER_URL = f"https://id.carousell.com/u/{SELLER_USERNAME}/"
-DB_PATH    = "/home/npaskalino/seen_listings.db"
+DB_PATH    = "/app/seen_listings.db"
 
 HEADERS = {
     "User-Agent": (
